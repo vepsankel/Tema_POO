@@ -1,0 +1,1129 @@
+{
+    "companies": [
+        {
+            "name": "Google",
+            "departments": [
+                {
+                    "jobs": [
+                        {
+                            "isOpen": false,
+                            "noPositions": 0,
+                            "absolvationConstraint_min": 2002,
+                            "gradeConstraint_max": null,
+                            "name": "Software Developer Engineer",
+                            "absolvationConstraint_max": 2020,
+                            "gradeConstraint_min": 8,
+                            "experienceConstraint_min": 2,
+                            "salary": 10000,
+                            "department": "IT",
+                            "experienceConstraint_max": 6
+                        },
+                        {
+                            "isOpen": false,
+                            "noPositions": 0,
+                            "absolvationConstraint_min": null,
+                            "gradeConstraint_max": null,
+                            "name": "Software Developer Engineer Intern",
+                            "absolvationConstraint_max": null,
+                            "gradeConstraint_min": 9,
+                            "experienceConstraint_min": 0,
+                            "salary": 5000,
+                            "department": "IT",
+                            "experienceConstraint_max": 2
+                        }
+                    ],
+                    "type": "IT"
+                },
+                {
+                    "jobs": [],
+                    "type": "Marketing"
+                },
+                {
+                    "jobs": [],
+                    "type": "Finance"
+                },
+                {
+                    "jobs": [],
+                    "type": "Management"
+                }
+            ]
+        },
+        {
+            "name": "Amazon",
+            "departments": [
+                {
+                    "jobs": [
+                        {
+                            "isOpen": true,
+                            "noPositions": 1,
+                            "absolvationConstraint_min": 2014,
+                            "gradeConstraint_max": null,
+                            "name": "Software Developer Engineer",
+                            "absolvationConstraint_max": 2020,
+                            "gradeConstraint_min": 9,
+                            "experienceConstraint_min": 1,
+                            "salary": 12000,
+                            "department": "IT",
+                            "experienceConstraint_max": null
+                        },
+                        {
+                            "isOpen": true,
+                            "noPositions": 1,
+                            "absolvationConstraint_min": null,
+                            "gradeConstraint_max": null,
+                            "name": "Software Developer Engineer Intern",
+                            "absolvationConstraint_max": null,
+                            "gradeConstraint_min": 9.35,
+                            "experienceConstraint_min": 0,
+                            "salary": 6000,
+                            "department": "IT",
+                            "experienceConstraint_max": 2
+                        }
+                    ],
+                    "type": "IT"
+                },
+                {
+                    "jobs": [],
+                    "type": "Marketing"
+                },
+                {
+                    "jobs": [],
+                    "type": "Finance"
+                },
+                {
+                    "jobs": [],
+                    "type": "Management"
+                }
+            ]
+        }
+    ],
+    "recruiters": [
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2008",
+                    "level": "college",
+                    "grade": 8.8,
+                    "name": "University of Oxford",
+                    "start_date": "01.08.2004"
+                },
+                {
+                    "end_date": "01.06.2004",
+                    "level": "highschool",
+                    "grade": 9.6,
+                    "name": "High School of Brussels",
+                    "start_date": "01.08.2000"
+                }
+            ],
+            "evaluations": [],
+            "languages": [
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Experienced",
+                "Experienced"
+            ],
+            "date_of_birth": "02.02.1980",
+            "rating": 5.1,
+            "experience": [
+                {
+                    "end_date": null,
+                    "company": "Google",
+                    "position": "Recruiter",
+                    "department": "IT",
+                    "start_date": "01.10.2015"
+                },
+                {
+                    "end_date": "01.01.2013",
+                    "company": "Playtika",
+                    "position": "Recruiter",
+                    "start_date": "01.10.2009"
+                }
+            ],
+            "salary": 8000,
+            "phone": "+4123456789",
+            "name": "Jonie Phillip",
+            "genre": "male",
+            "email": "jphilip@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2014",
+                    "level": "college",
+                    "grade": 9.8,
+                    "name": "MIT",
+                    "start_date": "01.08.2010"
+                },
+                {
+                    "end_date": "01.06.2010",
+                    "level": "highschool",
+                    "grade": 9.75,
+                    "name": "Thomas Jefferson High School for Science and Technology",
+                    "start_date": "01.08.2006"
+                }
+            ],
+            "evaluations": [],
+            "languages": [
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Advanced",
+                "Experienced"
+            ],
+            "date_of_birth": "12.12.1989",
+            "rating": 5.199999999999999,
+            "experience": [{
+                "end_date": null,
+                "company": "Google",
+                "position": "Recruiter",
+                "department": "IT",
+                "start_date": "01.01.2012"
+            }],
+            "salary": 8000,
+            "phone": "+4123456987",
+            "name": "Janine Woody",
+            "genre": "male",
+            "email": "jwoody@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2017",
+                    "level": "college",
+                    "grade": 7.8,
+                    "name": "Bristol University",
+                    "start_date": "01.08.2013"
+                },
+                {
+                    "end_date": "01.06.2013",
+                    "level": "highschool",
+                    "grade": 8.75,
+                    "name": "Crestview High School",
+                    "start_date": "01.08.2009"
+                }
+            ],
+            "evaluations": [],
+            "languages": ["English"],
+            "languages_level": ["Experienced"],
+            "date_of_birth": "05.05.1983",
+            "rating": 5.199999999999999,
+            "experience": [{
+                "end_date": null,
+                "company": "Amazon",
+                "position": "Recruiter",
+                "department": "IT",
+                "start_date": "01.01.2018"
+            }],
+            "salary": 5000,
+            "phone": "+4333333333",
+            "name": "Darrell Lillie",
+            "genre": "male",
+            "email": "dlillie@amazon.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.07.2014",
+                    "level": "college",
+                    "grade": 9.65,
+                    "name": "MIT",
+                    "start_date": "01.06.2011"
+                },
+                {
+                    "end_date": "01.06.2011",
+                    "level": "highschool",
+                    "grade": 9.9,
+                    "name": "Enterprise School",
+                    "start_date": "01.08.2007"
+                }
+            ],
+            "evaluations": [],
+            "languages": [
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Beginner",
+                "Experienced"
+            ],
+            "date_of_birth": "29.06.1988",
+            "rating": 5,
+            "experience": [
+                {
+                    "end_date": null,
+                    "company": "Amazon",
+                    "position": "Recruiter",
+                    "department": "IT",
+                    "start_date": "01.10.2014"
+                },
+                {
+                    "end_date": "01.05.2014",
+                    "company": "Microsoft",
+                    "position": "Recruiter",
+                    "start_date": "01.01.2014"
+                }
+            ],
+            "salary": 9000,
+            "phone": "+4444444444",
+            "name": "Damian Bodhi",
+            "genre": "male",
+            "email": "dbodhi@amazon.com",
+            "notifications": []
+        }
+    ],
+    "employees": [
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2013",
+                    "level": "college",
+                    "grade": 9.35,
+                    "name": "Ecole Polytechnique",
+                    "start_date": "01.08.2009"
+                },
+                {
+                    "end_date": "01.06.2009",
+                    "level": "highschool",
+                    "grade": 8.9,
+                    "name": "ICS Paris",
+                    "start_date": "01.08.2005"
+                }
+            ],
+            "languages": [
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Experienced",
+                "Experienced"
+            ],
+            "phone": "+4111111116",
+            "date_of_birth": "01.01.1986",
+            "name": "Rolland Lyla",
+            "genre": "female",
+            "experience": [
+                {
+                    "end_date": "01.10.2016",
+                    "company": "Bloomberg",
+                    "position": "SDE",
+                    "department": "IT",
+                    "start_date": "01.05.2015"
+                },
+                {
+                    "end_date": null,
+                    "company": "Google",
+                    "position": "Senior SDE",
+                    "department": "IT",
+                    "start_date": "01.03.2017"
+                },
+                {
+                    "end_date": "01.01.2015",
+                    "company": "Softwire",
+                    "position": "SDE",
+                    "department": "IT",
+                    "start_date": "01.09.2014"
+                },
+                {
+                    "end_date": "01.10.2013",
+                    "company": "Google",
+                    "position": "Intern SDE",
+                    "department": "IT",
+                    "start_date": "01.07.2013"
+                }
+            ],
+            "salary": 9000,
+            "email": "rollandly@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2014",
+                    "level": "college",
+                    "grade": 9.1,
+                    "name": "Ecole polytechnique",
+                    "start_date": "01.08.2009"
+                },
+                {
+                    "end_date": "01.08.2009",
+                    "level": "highschool",
+                    "grade": 10,
+                    "name": "Downingtown STEM Academy",
+                    "start_date": "01.09.2005"
+                }
+            ],
+            "languages": ["English"],
+            "languages_level": ["Experienced"],
+            "phone": "+4444444444",
+            "date_of_birth": "15.02.1988",
+            "name": "Tamara Haci",
+            "genre": "make",
+            "experience": [
+                {
+                    "end_date": "01.08.2018",
+                    "company": "Bloomberg",
+                    "position": "SDE",
+                    "start_date": "01.05.2017"
+                },
+                {
+                    "end_date": null,
+                    "company": "Google",
+                    "position": "Software Developer Engineer",
+                    "department": "IT",
+                    "start_date": "21.01.2021"
+                },
+                {
+                    "end_date": "01.11.2017",
+                    "company": "JP Morgan",
+                    "position": "SDE",
+                    "start_date": "01.06.2016"
+                },
+                {
+                    "end_date": "01.03.2016",
+                    "company": "Microsoft",
+                    "position": "SDE",
+                    "start_date": "01.10.2015"
+                }
+            ],
+            "salary": 10000,
+            "email": "thaci@gmail.com",
+            "notifications": [
+                "Congratulations! You were accepted at job Software Developer Engineer",
+                "Your followed company Google has closed 1 of its jobs: Software Developer Engineer",
+                "Your followed company Google has closed 1 of its jobs: Software Developer Engineer Intern"
+            ]
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2018",
+                    "level": "college",
+                    "grade": 9.4,
+                    "name": "University of Warwick",
+                    "start_date": "01.10.2014"
+                },
+                {
+                    "end_date": "01.06.2014",
+                    "level": "highschool",
+                    "grade": 9.2,
+                    "name": "Stanton College Preparatory School",
+                    "start_date": "01.08.2010"
+                },
+                {
+                    "end_date": null,
+                    "level": "masters",
+                    "grade": 10,
+                    "name": "University of Oxford",
+                    "start_date": "01.08.2018"
+                }
+            ],
+            "languages": [
+                "German",
+                "English"
+            ],
+            "languages_level": [
+                "Beginner",
+                "Experienced"
+            ],
+            "phone": "+4555555555",
+            "date_of_birth": "10.11.1988",
+            "name": "Julia Matvei",
+            "genre": "female",
+            "experience": [
+                {
+                    "end_date": null,
+                    "company": "Google",
+                    "position": "Software Developer Engineer Intern",
+                    "department": "IT",
+                    "start_date": "21.01.2021"
+                },
+                {
+                    "end_date": "01.03.2017",
+                    "company": "NXP",
+                    "position": "SDE",
+                    "start_date": "01.05.2015"
+                }
+            ],
+            "salary": 5000,
+            "email": "jmatvei@gmail.com",
+            "notifications": [
+                "Your followed company Google has closed 1 of its jobs: Software Developer Engineer",
+                "Congratulations! You were accepted at job Software Developer Engineer Intern",
+                "Your followed company Google has closed 1 of its jobs: Software Developer Engineer Intern"
+            ]
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2006",
+                    "level": "college",
+                    "grade": 9.93,
+                    "name": "University of Oxford",
+                    "start_date": "01.08.2002"
+                },
+                {
+                    "end_date": "01.07.2002",
+                    "level": "highschool",
+                    "grade": 9.87,
+                    "name": "Kspace International School",
+                    "start_date": "01.08.1998"
+                }
+            ],
+            "languages": [
+                "Chinese",
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Beginner",
+                "Experienced",
+                "Experienced"
+            ],
+            "phone": "+4111111118",
+            "date_of_birth": "03.04.1976",
+            "name": "Molly Rylie",
+            "genre": "female",
+            "experience": [
+                {
+                    "end_date": "01.05.2014",
+                    "company": "Amazon",
+                    "position": "Researcher",
+                    "department": "Marketing",
+                    "start_date": "01.02.2013"
+                },
+                {
+                    "end_date": "01.10.2012",
+                    "company": "Google",
+                    "position": "Researcher",
+                    "department": "Marketing",
+                    "start_date": "01.06.2011"
+                },
+                {
+                    "end_date": null,
+                    "company": "Google",
+                    "position": "Researcher",
+                    "department": "Marketing",
+                    "start_date": "01.10.2015"
+                },
+                {
+                    "end_date": "01.04.2010",
+                    "company": "Sofwire",
+                    "position": "Marketing",
+                    "department": "Marketing",
+                    "start_date": "01.07.2006"
+                }
+            ],
+            "salary": 10000,
+            "email": "mollyr@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2011",
+                    "level": "college",
+                    "grade": 7.65,
+                    "name": "Harvard",
+                    "start_date": "01.08.2006"
+                },
+                {
+                    "end_date": "01.06.2005",
+                    "level": "highschool",
+                    "grade": 9.5,
+                    "name": "Jamaica Plain High School",
+                    "start_date": "01.08.2001"
+                }
+            ],
+            "languages": [
+                "German",
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Experienced",
+                "Advanced",
+                "Experienced"
+            ],
+            "phone": "+4111111110",
+            "date_of_birth": "18.03.1983",
+            "name": "Bryson Reenie",
+            "genre": "male",
+            "experience": [
+                {
+                    "end_date": null,
+                    "company": "Google",
+                    "position": "Marketing",
+                    "department": "Marketing",
+                    "start_date": "01.10.2015"
+                },
+                {
+                    "end_date": "01.04.2015",
+                    "company": "Softwire",
+                    "position": "Marketing",
+                    "department": "Marketing",
+                    "start_date": "01.07.2011"
+                }
+            ],
+            "salary": 10000,
+            "email": "brysonr@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2018",
+                    "level": "highschool",
+                    "grade": 10,
+                    "name": "National High School of Berlin",
+                    "start_date": "01.08.2014"
+                },
+                {
+                    "end_date": null,
+                    "level": "college",
+                    "grade": 9.45,
+                    "name": "Jacobs University",
+                    "start_date": "01.10.2018"
+                }
+            ],
+            "languages": ["English"],
+            "languages_level": ["Experienced"],
+            "phone": "+4111111119",
+            "date_of_birth": "01.01.1997",
+            "name": "Morley Denise",
+            "genre": "female",
+            "experience": [{
+                "end_date": null,
+                "company": "Google",
+                "position": "Finance Intern",
+                "department": "Finance",
+                "start_date": "01.07.2020"
+            }],
+            "salary": 3500,
+            "email": "morleyd@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.07.2018",
+                    "level": "college",
+                    "grade": 7.6,
+                    "name": "University of Groningen",
+                    "start_date": "01.10.2014"
+                },
+                {
+                    "end_date": "01.06.2014",
+                    "level": "highschool",
+                    "grade": 8.05,
+                    "name": "Tornados High School",
+                    "start_date": "01.08.2010"
+                }
+            ],
+            "languages": ["English"],
+            "languages_level": ["Experienced"],
+            "phone": "+4111111117",
+            "date_of_birth": "13.04.1996",
+            "name": "Steward Goodwin",
+            "genre": "male",
+            "experience": [{
+                "end_date": null,
+                "company": "Google",
+                "position": "Manager",
+                "department": "Management",
+                "start_date": "01.07.2018"
+            }],
+            "salary": 4500,
+            "email": "stewardg@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2008",
+                    "level": "college",
+                    "grade": 9,
+                    "name": "MIT",
+                    "start_date": "01.08.2004"
+                },
+                {
+                    "end_date": "01.06.2004",
+                    "level": "highschool",
+                    "grade": 9.75,
+                    "name": "Thomas Jefferson High School for Science and Technology",
+                    "start_date": "01.08.2000"
+                }
+            ],
+            "languages": [
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Beginner",
+                "Experienced"
+            ],
+            "phone": "+4111111111",
+            "date_of_birth": "12.01.1986",
+            "name": "Harmony Lorinda",
+            "genre": "female",
+            "experience": [
+                {
+                    "end_date": null,
+                    "company": "Amazon",
+                    "position": "Senior SDE",
+                    "department": "IT",
+                    "start_date": "01.05.2010"
+                },
+                {
+                    "end_date": "01.04.2010",
+                    "company": "Google",
+                    "position": "SDE",
+                    "department": "IT",
+                    "start_date": "01.07.2006"
+                }
+            ],
+            "salary": 5000,
+            "email": "harmonyl@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2019",
+                    "level": "highschool",
+                    "grade": 8.87,
+                    "name": "Kings High School",
+                    "start_date": "01.08.2015"
+                },
+                {
+                    "end_date": null,
+                    "level": "college",
+                    "grade": 9.89,
+                    "name": "King\u2019s College",
+                    "start_date": "01.10.2019"
+                }
+            ],
+            "languages": ["English"],
+            "languages_level": ["Experienced"],
+            "phone": "+4111111113",
+            "date_of_birth": "27.11.1994",
+            "name": "Leyla Stacy",
+            "genre": "female",
+            "experience": [{
+                "end_date": null,
+                "company": "Amazon",
+                "position": "Marketing Intern",
+                "department": "Marketing",
+                "start_date": "01.05.2010"
+            }],
+            "salary": 3500,
+            "email": "leylas@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.07.2019",
+                    "level": "college",
+                    "grade": 9.25,
+                    "name": "Stanford University",
+                    "start_date": "01.08.2015"
+                },
+                {
+                    "end_date": "01.07.2015",
+                    "level": "highschool",
+                    "grade": 7.8,
+                    "name": "Aquinas High School ",
+                    "start_date": "01.10.2011"
+                }
+            ],
+            "languages": ["English"],
+            "languages_level": ["Experienced"],
+            "phone": "+4111111115",
+            "date_of_birth": "10.10.1993",
+            "name": "Bethney Kiara",
+            "genre": "female",
+            "experience": [{
+                "end_date": null,
+                "company": "Amazon",
+                "position": "Marketing agent",
+                "department": "Marketing",
+                "start_date": "01.07.2019"
+            }],
+            "salary": 6000,
+            "email": "bethneyk@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2009",
+                    "level": "college",
+                    "grade": 8.75,
+                    "name": "University of Oxford",
+                    "start_date": "01.08.2006"
+                },
+                {
+                    "end_date": "01.06.2006",
+                    "level": "highschool",
+                    "grade": 9.87,
+                    "name": "Heidelberg American High School ",
+                    "start_date": "01.08.2002"
+                }
+            ],
+            "languages": [
+                "German",
+                "English"
+            ],
+            "languages_level": [
+                "Advanced",
+                "Experienced"
+            ],
+            "phone": "+4111111114",
+            "date_of_birth": "07.10.1986",
+            "name": "Jarred Egbert",
+            "genre": "male",
+            "experience": [
+                {
+                    "end_date": null,
+                    "company": "Amazon",
+                    "position": "Analyst",
+                    "department": "Finance",
+                    "start_date": "01.02.2018"
+                },
+                {
+                    "end_date": "01.10.2017",
+                    "company": "Goldman Sachs",
+                    "position": "Analyst",
+                    "department": "Finance",
+                    "start_date": "01.10.2013"
+                },
+                {
+                    "end_date": "01.07.2011",
+                    "company": "JP Morgan",
+                    "position": "Intern",
+                    "department": "Finance",
+                    "start_date": "01.04.2009"
+                }
+            ],
+            "salary": 8500,
+            "email": "jarredeg@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2018",
+                    "level": "college",
+                    "grade": 9.65,
+                    "name": "University of Munich",
+                    "start_date": "01.08.2014"
+                },
+                {
+                    "end_date": "01.06.2014",
+                    "level": "highschool",
+                    "grade": 8.87,
+                    "name": "Heidelberg American High School",
+                    "start_date": "01.08.2010"
+                }
+            ],
+            "languages": [
+                "German",
+                "English"
+            ],
+            "languages_level": [
+                "Experienced",
+                "Experienced"
+            ],
+            "phone": "+4111111112",
+            "date_of_birth": "20.04.1995",
+            "name": "Shana Addy",
+            "genre": "male",
+            "experience": [{
+                "end_date": null,
+                "company": "Amazon",
+                "position": "Manager",
+                "department": "Management",
+                "start_date": "01.05.2010"
+            }],
+            "salary": 3000,
+            "email": "shanad@gmail.com",
+            "notifications": []
+        }
+    ],
+    "users": [
+        {
+            "education": [
+                {
+                    "end_date": "01.08.2015",
+                    "level": "masters",
+                    "grade": 9.35,
+                    "name": "MIT",
+                    "start_date": "01.08.2015"
+                },
+                {
+                    "end_date": "01.08.2012",
+                    "level": "college",
+                    "grade": 8.8,
+                    "name": "MIT",
+                    "start_date": "01.08.2007"
+                },
+                {
+                    "end_date": "01.06.2011",
+                    "level": "highschool",
+                    "grade": 6.75,
+                    "name": "Gilbert Classical Academy",
+                    "start_date": "01.09.2003"
+                }
+            ],
+            "languages": [
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Beginner",
+                "Experienced"
+            ],
+            "phone": "+4444444444",
+            "date_of_birth": "20.10.1982",
+            "interested_companies": ["Google"],
+            "name": "Daniel Edmund",
+            "genre": "male",
+            "applied_jobs": [],
+            "experience": [{
+                "end_date": "01.06.2016",
+                "company": "MIT",
+                "position": "Researcher",
+                "start_date": "01.05.2015"
+            }],
+            "email": "dedmund@gmail.com",
+            "notifications": [
+                "Your followed company Google has closed 1 of its jobs: Software Developer Engineer",
+                "Your followed company Google has closed 1 of its jobs: Software Developer Engineer Intern"
+            ]
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2018",
+                    "level": "highschool",
+                    "grade": 8.9,
+                    "name": "Thomas Jefferson High School for Science and Technology",
+                    "start_date": "01.08.2014"
+                },
+                {
+                    "end_date": null,
+                    "level": "college",
+                    "grade": 9.75,
+                    "name": "University of Manchester",
+                    "start_date": "01.08.2018"
+                }
+            ],
+            "languages": [
+                "Russian",
+                "Portuguese",
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Advanced",
+                "Beginner",
+                "Experienced",
+                "Experienced"
+            ],
+            "phone": "+4444444444",
+            "date_of_birth": "05.08.1998",
+            "interested_companies": [
+                "Google",
+                "Amazon"
+            ],
+            "name": "Linette Spartak",
+            "genre": "male",
+            "applied_jobs": [],
+            "experience": [
+                {
+                    "end_date": "01.11.2019",
+                    "company": "Edenred Digital",
+                    "position": "SDE",
+                    "start_date": "01.11.2018"
+                },
+                {
+                    "end_date": "01.09.2018",
+                    "company": "Luxoft",
+                    "position": "Intern SDE",
+                    "start_date": "01.05.2018"
+                }
+            ],
+            "email": "lspartak@gmail.com",
+            "notifications": [
+                "Your followed company Google has closed 1 of its jobs: Software Developer Engineer",
+                "Your followed company Google has closed 1 of its jobs: Software Developer Engineer Intern"
+            ]
+        }
+    ],
+    "managers": [
+        {
+            "education": [
+                {
+                    "end_date": "01.06.2008",
+                    "level": "college",
+                    "grade": 9.75,
+                    "name": "University of Manchester",
+                    "start_date": "01.08.2004"
+                },
+                {
+                    "end_date": "01.06.2004",
+                    "level": "highschool",
+                    "grade": 8.9,
+                    "name": "Thomas Jefferson High School for Science and Technology",
+                    "start_date": "01.08.2000"
+                }
+            ],
+            "languages": [
+                "Indian",
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Experienced",
+                "Experienced",
+                "Experienced"
+            ],
+            "phone": "+4444444444",
+            "date_of_birth": "12.07.1972",
+            "name": "Sundar Pichai",
+            "genre": "male",
+            "requests": [{
+                "score": 61.5,
+                "candidate": "jmatvei@gmail.com",
+                "name": "Software Developer Engineer",
+                "recruiter": "jwoody@gmail.com",
+                "company": "Google",
+                "department": "IT"
+            }],
+            "experience": [{
+                "end_date": null,
+                "company": "Google",
+                "position": "CEO",
+                "start_date": "01.05.2018"
+            }],
+            "salary": 1,
+            "email": "spichai@gmail.com",
+            "notifications": []
+        },
+        {
+            "education": [
+                {
+                    "end_date": "01.08.1990",
+                    "level": "college",
+                    "grade": 9.75,
+                    "name": "Princeton University",
+                    "start_date": "01.08.1986"
+                },
+                {
+                    "end_date": "01.06.1986",
+                    "level": "highschool",
+                    "grade": 8.9,
+                    "name": "Thomas Jefferson High School for Science and Technology",
+                    "start_date": "01.08.1982"
+                }
+            ],
+            "languages": [
+                "German",
+                "French",
+                "English"
+            ],
+            "languages_level": [
+                "Experienced",
+                "Experienced",
+                "Experienced"
+            ],
+            "phone": "+4444444444",
+            "date_of_birth": "12.01.1964",
+            "name": "Jeff Bezos",
+            "genre": "male",
+            "requests": [
+                {
+                    "score": 71.655,
+                    "candidate": "thaci@gmail.com",
+                    "name": "Software Developer Engineer",
+                    "recruiter": "dlillie@amazon.com",
+                    "company": "Amazon",
+                    "department": "IT"
+                },
+                {
+                    "score": 61.5,
+                    "candidate": "jmatvei@gmail.com",
+                    "name": "Software Developer Engineer",
+                    "recruiter": "dlillie@amazon.com",
+                    "company": "Amazon",
+                    "department": "IT"
+                }
+            ],
+            "experience": [{
+                "end_date": null,
+                "company": "Amazon",
+                "position": "CEO",
+                "start_date": "05.06.1994"
+            }],
+            "salary": 1,
+            "email": "jbezos@amaon.com",
+            "notifications": []
+        }
+    ],
+    "friends": [
+        {
+            "friend_of": "brysonr@gmail.com",
+            "friend": "lspartak@gmail.com"
+        },
+        {
+            "friend_of": "brysonr@gmail.com",
+            "friend": "shanad@gmail.com"
+        },
+        {
+            "friend_of": "dbodhi@amazon.com",
+            "friend": "rollandly@gmail.com"
+        },
+        {
+            "friend_of": "dedmund@gmail.com",
+            "friend": "leylas@gmail.com"
+        },
+        {
+            "friend_of": "dedmund@gmail.com",
+            "friend": "jmatvei@gmail.com"
+        },
+        {
+            "friend_of": "dlillie@amazon.com",
+            "friend": "shanad@gmail.com"
+        },
+        {
+            "friend_of": "jmatvei@gmail.com",
+            "friend": "stewardg@gmail.com"
+        },
+        {
+            "friend_of": "jmatvei@gmail.com",
+            "friend": "jphilip@gmail.com"
+        },
+        {
+            "friend_of": "jwoody@gmail.com",
+            "friend": "leylas@gmail.com"
+        },
+        {
+            "friend_of": "leylas@gmail.com",
+            "friend": "rollandly@gmail.com"
+        },
+        {
+            "friend_of": "leylas@gmail.com",
+            "friend": "thaci@gmail.com"
+        },
+        {
+            "friend_of": "lspartak@gmail.com",
+            "friend": "thaci@gmail.com"
+        }
+    ]
+}
